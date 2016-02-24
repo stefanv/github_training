@@ -1,6 +1,7 @@
 def add(a, b):
     return a + b
 
-#returns a/b
 def div(a,b):
+	if b == 0:
+		return "zero division error"
 	return a/b
