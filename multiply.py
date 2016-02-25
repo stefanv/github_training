@@ -1,6 +1,9 @@
 def multiply(a, b=None):
     """Multiply two numbers.
 
+    Multiply two numbers. If only one number is provided, 
+    the function returns the square of that number.
+
     Parameters
     ----------
     a : int or float 
