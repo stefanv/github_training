@@ -7,6 +7,7 @@ def multiply(a, b=None):
         First operand.
     b : int or float (optional)
         Second operand.
+
     Returns
     -------
     output : int or float
